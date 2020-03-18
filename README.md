@@ -22,7 +22,7 @@ A [Django](https://www.djangoproject.com/) template tag to replace line breaks (
     Load the template tag:      
     
     ```
-    {% load core_templatetags %}
+    {% load blog_templatetags %}
     ```  
 
     Apply it to some content:
